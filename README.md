@@ -22,7 +22,7 @@ Consumir API
 ## backend
 Consumir API
 
-- [ ] jsonplaceholder
+- [ ] jsonplaceholder (https://jsonplaceholder.typicode.com/users)
 - [ ] Usar axios
 - [ ] usar try/catch
 
