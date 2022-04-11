@@ -16,6 +16,13 @@ Consumir API
 
 - [x] Utilizar fetch para consumir nossa API backend
 - [x] Utilizar Promise - Async/await
-- [ ] Usar try/catch
-- [ ] Mostrar resposta na tela
+- [x] Usar try/catch
+- [x] Mostrar resposta na tela
+
+## backend
+Consumir API
+
+- [ ] jsonplaceholder
+- [ ] Usar axios
+- [ ] usar try/catch
 
